@@ -20,8 +20,8 @@
 In media project, the real situation is a little bit difference from our imagine scence,
 <br>so it's very necessary for developers to design and make interface in back front screen,
 <br>which can conveninent to control and make sure client have a good experince in our art works,
-<br>"SaverUse" is coming, not only can we save the data from which we chose cutomize interface but also can encrypt out the contents of
-<br>any COMP referening an external.tox!
+<br>"SaverUse" is coming, not only can we save the data from which we chose cutomize interface 
+<br>but also can encrypt out the contents of any COMP referening an external.tox!
 
 ## Functionality
 - **AddComp**
@@ -34,7 +34,7 @@ In media project, the real situation is a little bit difference from our imagine
   - Prevent other people from roading external.tox in other file.
 
 ## Issue Known:
-- **SaverUse** still can't add itself as interface in SaverUse.
+- The plugin only can work for referring parameters to as interface instead of panels as interface.
 - The buttons of the **AddComp** and **RemoveAll** position are not correctly.
 - **RemoveAll** button doesn't remove all COMP rows at once.
 
