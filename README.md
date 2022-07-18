@@ -34,6 +34,7 @@ In media project, the real situation is a little bit difference from our imagine
   - Prevent other people from roading external.tox in other file.
 
 ## Issue Known:
+- It can't load the list of parameter in EngineComp.
 - The plugin only can work for referring parameters to as interface instead of panels as interface.
 - The buttons of the **AddComp** and **RemoveAll** position are not correctly.
 - **RemoveAll** button doesn't remove all COMP rows at once.
