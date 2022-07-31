@@ -4,7 +4,7 @@
 - Class       : Project series
 - Requirement :
   - window10
-  - Touchdesigner 2022.2400
+  - Touchdesigner >= 2022.2400
 
 - Author:
   Wingto
