@@ -41,5 +41,6 @@ In media project, the real situation is a little bit difference from our imagine
 
 ## Contact:
 
-If you have any feedback contact me please.email:kty627341343@gmail.com
-[wingtoKwong](https://www.instagram.com/wingtokwong/)
+If you have any feedback contact me please.
+<br>email:kty627341343@gmail.com
+<br>ins:[wingtoKwong](https://www.instagram.com/wingtokwong/)
